@@ -1,5 +1,4 @@
 layout_spectrum: 0.5319149
-typography_spectrum: 0.387234
 color:
   saturation: 0.7575787
   lightness: 0.2390383
@@ -11,4 +10,5 @@ color:
     - '#9191FD'
     - '#383838'
   rhythmicContrast: 0.8942092
-name: www.imtechnologiesllc.com
+typography_spectrum: 0.387234
+name: iMTechnologies
